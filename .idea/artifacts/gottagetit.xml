@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gottagetit">
+    <output-path>$PROJECT_DIR$/out/artifacts/gottagetit</output-path>
+    <root id="archive" name="gottagetit.jar">
+      <element id="module-output" name="csv_schema_builder" />
+      <element id="library" level="project" name="mysql-connector-java-5.1.26-bin" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/Desktop/testMF/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

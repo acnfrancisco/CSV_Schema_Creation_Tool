@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CSV_Schema_Tool_v1.01">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSV_Schema_Tool_v1_01</output-path>
+    <root id="archive" name="CSV_Schema_Tool_v1.01.jar">
+      <element id="module-output" name="csv_schema_builder" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
